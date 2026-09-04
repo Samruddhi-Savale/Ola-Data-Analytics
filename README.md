@@ -173,7 +173,7 @@ Explore dashboard
 - **GitHub:** 
 https://github.com/Samruddhi-Savale/Banking-Analytics.git
 - **LinkedIn:** 
-https://www.linkedin.com/posts/samruddhi1_banking-analytics-mdd-excel-python-activity-7501636987955720193-L4QD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUztP0BlILrmBYgvnMo_Qr5hfnQDHziN8k
+https://www.linkedin.com/posts/samruddhi1_ola-data-analytics-python-mysql-power-activity-7501718446523600897-iw3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUztP0BlILrmBYgvnMo_Qr5hfnQDHziN8k
 
 ---
 
